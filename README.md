@@ -51,7 +51,7 @@ This repository aims to provide you with the best study materials, tips, and tri
 ### Reading
 
 ![IELTS Reading]
-<a href="https://ibb.co/1m5JXWw"><img src="https://i.ibb.co/1m5JXWw/9a7ade3b-44d5-467e-8e7d-c4860baef518.jpg" alt="9a7ade3b-44d5-467e-8e7d-c4860baef518" border="0"></a>
+<a href="https://ibb.co/G0ZG3VV"><img src="https://i.ibb.co/G0ZG3VV/00697ed2-9d4d-4d3a-9804-e8b20591e27d.jpg" alt="00697ed2-9d4d-4d3a-9804-e8b20591e27d" border="0"></a>
 
 - **Practice Sites:**
   - [IELTS Online Reading Practice](https://www.ielts.org/usa/ielts-practice-test)
@@ -66,7 +66,7 @@ This repository aims to provide you with the best study materials, tips, and tri
 ### Writing
 
 ![IELTS Writing]
-<a href="https://ibb.co/1m5JXWw"><img src="https://i.ibb.co/1m5JXWw/9a7ade3b-44d5-467e-8e7d-c4860baef518.jpg" alt="9a7ade3b-44d5-467e-8e7d-c4860baef518" border="0"></a>
+<a href="https://ibb.co/G0ZG3VV"><img src="https://i.ibb.co/G0ZG3VV/00697ed2-9d4d-4d3a-9804-e8b20591e27d.jpg" alt="00697ed2-9d4d-4d3a-9804-e8b20591e27d" border="0"></a>
 
 - **Practice Sites:**
   - [IELTS Liz Writing Practice](https://ieltsliz.com/ielts-writing-task-1/)
@@ -81,7 +81,7 @@ This repository aims to provide you with the best study materials, tips, and tri
 ### Speaking
 
 ![IELTS Speaking]
-<a href="https://ibb.co/XpKdbsx"><img src="https://i.ibb.co/XpKdbsx/3c9045c6-3145-4568-b8e0-39b23f6bb94a.jpg" alt="3c9045c6-3145-4568-b8e0-39b23f6bb94a" border="0"></a>
+<a href="https://ibb.co/G0ZG3VV"><img src="https://i.ibb.co/G0ZG3VV/00697ed2-9d4d-4d3a-9804-e8b20591e27d.jpg" alt="00697ed2-9d4d-4d3a-9804-e8b20591e27d" border="0"></a>
 
 - **Practice Sites:**
   - [IELTS Speaking Practice](https://www.ielts-exam.net/ielts-speaking/)
@@ -98,7 +98,7 @@ This repository aims to provide you with the best study materials, tips, and tri
 ### Math
 
 ![D-SAT Math]
-<a href="https://ibb.co/XpKdbsx"><img src="https://i.ibb.co/XpKdbsx/3c9045c6-3145-4568-b8e0-39b23f6bb94a.jpg" alt="3c9045c6-3145-4568-b8e0-39b23f6bb94a" border="0"></a>
+<a href="https://ibb.co/bL8Hb9T"><img src="https://i.ibb.co/bL8Hb9T/68cfcdc5-5a73-4fa6-b6ed-f5c4e5e70908.jpg" alt="68cfcdc5-5a73-4fa6-b6ed-f5c4e5e70908" border="0"></a>
 
 - **Practice Sites:**
   - [Khan Academy SAT Practice](https://www.khanacademy.org/test-prep/sat)
