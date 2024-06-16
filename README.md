@@ -5,7 +5,8 @@
 
 Welcome to the ultimate resource hub for IELTS and D-SAT Level 1 and Level 2 exams preparation. This repository is designed to help you master all sections of the exams, providing valuable tips, resources, and practice materials. Let's get started on your journey to acing these exams!
 
-![Exam Preparation](https://example.com/path-to-image.jpg)
+![Exam Preparation]
+<a href="https://ibb.co/BGGzLR3"><img src="https://i.ibb.co/BGGzLR3/00103748-5ee5-4c17-8ae6-d446feb33879.jpg" alt="00103748-5ee5-4c17-8ae6-d446feb33879" border="0"></a>
 
 ## Table of Contents
 
@@ -49,7 +50,8 @@ This repository aims to provide you with the best study materials, tips, and tri
 
 ### Reading
 
-![IELTS Reading](https://example.com/reading-image.jpg)
+![IELTS Reading]
+<a href="https://ibb.co/1m5JXWw"><img src="https://i.ibb.co/1m5JXWw/9a7ade3b-44d5-467e-8e7d-c4860baef518.jpg" alt="9a7ade3b-44d5-467e-8e7d-c4860baef518" border="0"></a>
 
 - **Practice Sites:**
   - [IELTS Online Reading Practice](https://www.ielts.org/usa/ielts-practice-test)
@@ -63,7 +65,8 @@ This repository aims to provide you with the best study materials, tips, and tri
 
 ### Writing
 
-![IELTS Writing](https://example.com/writing-image.jpg)
+![IELTS Writing]
+<a href="https://ibb.co/1m5JXWw"><img src="https://i.ibb.co/1m5JXWw/9a7ade3b-44d5-467e-8e7d-c4860baef518.jpg" alt="9a7ade3b-44d5-467e-8e7d-c4860baef518" border="0"></a>
 
 - **Practice Sites:**
   - [IELTS Liz Writing Practice](https://ieltsliz.com/ielts-writing-task-1/)
@@ -77,7 +80,8 @@ This repository aims to provide you with the best study materials, tips, and tri
 
 ### Speaking
 
-![IELTS Speaking](https://example.com/speaking-image.jpg)
+![IELTS Speaking]
+<a href="https://ibb.co/XpKdbsx"><img src="https://i.ibb.co/XpKdbsx/3c9045c6-3145-4568-b8e0-39b23f6bb94a.jpg" alt="3c9045c6-3145-4568-b8e0-39b23f6bb94a" border="0"></a>
 
 - **Practice Sites:**
   - [IELTS Speaking Practice](https://www.ielts-exam.net/ielts-speaking/)
@@ -93,7 +97,8 @@ This repository aims to provide you with the best study materials, tips, and tri
 
 ### Math
 
-![D-SAT Math](https://example.com/math-image.jpg)
+![D-SAT Math]
+<a href="https://ibb.co/XpKdbsx"><img src="https://i.ibb.co/XpKdbsx/3c9045c6-3145-4568-b8e0-39b23f6bb94a.jpg" alt="3c9045c6-3145-4568-b8e0-39b23f6bb94a" border="0"></a>
 
 - **Practice Sites:**
   - [Khan Academy SAT Practice](https://www.khanacademy.org/test-prep/sat)
@@ -106,8 +111,6 @@ This repository aims to provide you with the best study materials, tips, and tri
 
 ### Reading
 
-![D-SAT Reading](https://example.com/reading-image.jpg)
-
 - **Practice Sites:**
   - [Khan Academy Reading Practice](https://www.khanacademy.org/test-prep/sat/sat-reading-writing-practice)
   - [College Board Reading Practice](https://collegereadiness.collegeboard.org/sample-questions/reading)
@@ -118,8 +121,6 @@ This repository aims to provide you with the best study materials, tips, and tri
   - Answer questions based on evidence from the text.
 
 ### Writing
-
-![D-SAT Writing](https://example.com/writing-image.jpg)
 
 - **Practice Sites:**
   - [Khan Academy Writing Practice](https://www.khanacademy.org/test-prep/sat/sat-reading-writing-practice)
@@ -134,7 +135,8 @@ This repository aims to provide you with the best study materials, tips, and tri
 
 ### Math
 
-![D-SAT Math Level 2](https://example.com/math2-image.jpg)
+![D-SAT Math Level 2]
+<a href="https://ibb.co/F3jsjhQ"><img src="https://i.ibb.co/F3jsjhQ/681d18ec-2789-4d3a-8fd7-141ae8891714.jpg" alt="681d18ec-2789-4d3a-8fd7-141ae8891714" border="0"></a>
 
 - **Practice Sites:**
   - [Khan Academy SAT Math Level 2](https://www.khanacademy.org/test-prep/sat-math-2)
@@ -147,7 +149,6 @@ This repository aims to provide you with the best study materials, tips, and tri
 
 ### Reading
 
-![D-SAT Reading Level 2](https://example.com/reading2-image.jpg)
 
 - **Practice Sites:**
   - [Khan Academy Advanced Reading Practice](https://www.khanacademy.org/test-prep/sat-advanced-reading)
@@ -159,8 +160,6 @@ This repository aims to provide you with the best study materials, tips, and tri
   - Manage your time effectively.
 
 ### Writing
-
-![D-SAT Writing Level 2](https://example.com/writing2-image.jpg)
 
 - **Practice Sites:**
   - [Khan Academy Advanced Writing Practice](https://www.khanacademy.org/test-prep/sat-advanced-writing)
@@ -191,10 +190,4 @@ This repository aims to provide you with the best study materials, tips, and tri
 
 ## Contributing
 
-We welcome contributions to improve and expand this repository. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get involved.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
+We welcome contributions to improve and expand this repository. Please fork this repo and contribute also dont forget to star this repo
