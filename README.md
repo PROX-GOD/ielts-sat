@@ -66,7 +66,7 @@ This repository aims to provide you with the best study materials, tips, and tri
 ### Writing
 
 ![IELTS Writing]
-<a href="https://ibb.co/G0ZG3VV"><img src="https://i.ibb.co/G0ZG3VV/00697ed2-9d4d-4d3a-9804-e8b20591e27d.jpg" alt="00697ed2-9d4d-4d3a-9804-e8b20591e27d" border="0"></a>
+<a href="https://ibb.co/q1sVsN3"><img src="https://i.ibb.co/q1sVsN3/f0cabd73-d017-48fe-a428-77a2f120db42.jpg" alt="f0cabd73-d017-48fe-a428-77a2f120db42" border="0"></a>
 
 - **Practice Sites:**
   - [IELTS Liz Writing Practice](https://ieltsliz.com/ielts-writing-task-1/)
@@ -81,8 +81,7 @@ This repository aims to provide you with the best study materials, tips, and tri
 ### Speaking
 
 ![IELTS Speaking]
-<a href="https://ibb.co/G0ZG3VV"><img src="https://i.ibb.co/G0ZG3VV/00697ed2-9d4d-4d3a-9804-e8b20591e27d.jpg" alt="00697ed2-9d4d-4d3a-9804-e8b20591e27d" border="0"></a>
-
+<a href="https://ibb.co/XpKdbsx"><img src="https://i.ibb.co/XpKdbsx/3c9045c6-3145-4568-b8e0-39b23f6bb94a.jpg" alt="3c9045c6-3145-4568-b8e0-39b23f6bb94a" border="0"></a>
 - **Practice Sites:**
   - [IELTS Speaking Practice](https://www.ielts-exam.net/ielts-speaking/)
   - [IELTS Liz Speaking Practice](https://ieltsliz.com/ielts-speaking/)
