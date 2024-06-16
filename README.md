@@ -35,8 +35,8 @@ This repository aims to provide you with the best study materials, tips, and tri
 
 ### Listening
 
-![IELTS Listening](https://www.bing.com/images/create/generate-an-image-that-represents-someone-listenin/1-666eb4710efb4c138d1116714f67bda4?id=4dJvtq7oSdJbqM4gQlDgLw%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.1qR83PsSZm6gxjzE5rRx&FORM=GCRIDP&mode=overlay)
-
+![IELTS Listening]
+<a href="https://ibb.co/1m5JXWw"><img src="https://i.ibb.co/1m5JXWw/9a7ade3b-44d5-467e-8e7d-c4860baef518.jpg" alt="9a7ade3b-44d5-467e-8e7d-c4860baef518" border="0"></a>
 - **Practice Sites:**
   - [IELTS Liz Listening Practice](https://ieltsliz.com/ielts-listening/)
   - [British Council Listening Practice](https://learnenglish.britishcouncil.org/skills/listening)
